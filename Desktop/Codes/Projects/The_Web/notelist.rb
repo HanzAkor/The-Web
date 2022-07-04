@@ -1,0 +1,3 @@
+class NoteList
+
+end
